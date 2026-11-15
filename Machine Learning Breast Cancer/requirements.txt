@@ -1,0 +1,12 @@
+# requirements.txt
+
+ipython
+matplotlib
+numpy
+openpyxl
+pandas
+scikit-learn
+scipy
+seaborn
+xgboost
+xlrd
